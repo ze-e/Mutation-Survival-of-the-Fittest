@@ -1,2 +1,2 @@
-# Mutation-Survival-of-the-Fittest
-a game using a genetic algorithm to create enemies
+<h1>Check out the game here:<h1>
+  https://itch.io/game/edit/354211
